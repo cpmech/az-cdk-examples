@@ -48,7 +48,7 @@
     "graphql-tag": "file:./layers/nodejs/node_modules/graphql-tag",
     "jest": "^25.1.0",
     "mailparser": "file:./layers/nodejs/node_modules/mailparser",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "prettier": "^1.19.1",
     "rollup": "^1.32.0",
     "rollup-plugin-node-resolve": "^5.2.0",
