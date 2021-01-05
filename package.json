@@ -42,7 +42,7 @@
     "@types/uuid": "^7.0.0",
     "apollo-server-lambda": "file:./layers/nodejs/node_modules/apollo-server-lambda",
     "aws-amplify": "^2.2.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "graphql": "file:./layers/nodejs/node_modules/graphql",
     "graphql-request": "^1.8.2",
     "graphql-tag": "file:./layers/nodejs/node_modules/graphql-tag",
